@@ -1,0 +1,2775 @@
+From DQN_dvh_rule1.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_dvh_rule1.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_dvh_rule1.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_dvh_rule1.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_dvh_rule1.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_dvh_rule1.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_dvh_rule1.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_dvh_rule1.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_dvh_rule1.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_dvh_rule1.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_dvh_rule1.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_dvh_rule1.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_dvh_rule1.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_dvh_rule1.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_dvh_rule1.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_dvh_rule1shorten.py:91: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_dvh_rule1shorten.py:91: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_dvh_rule1shorten.py:91: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_dvh_rule1.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_dvh_rule1.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_dvh_rule1.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_dvh_rule1.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_dvh_rule1.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_dvh_rule1.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_dvh_rule1.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_dvh_rule1.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_dvh_rule1.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_dvh_rule1.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_dvh_rule1.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_dvh_rule1.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_dvh_rule1.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_dvh_rule1.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_dvh_rule1.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+------------------------------------------ validation ----------------------------------------------------
+############################# Testing start for patient 1 #################################################
+From DQN_dvh_rule1.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_dvh_rule1.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_dvh_rule1.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+------------------------------------------ validation ----------------------------------------------------
+############################# Testing start for patient 01 #################################################
+From DQN_dvh_rule1.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_dvh_rule1.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_dvh_rule1.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+------------------------------------------ validation ----------------------------------------------------
+############################# Testing start for patient 01 #################################################
+From DQN_dvh_rule1.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_dvh_rule1.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_dvh_rule1.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+------------------------------------------ validation ----------------------------------------------------
+############################# Testing start for patient 01 #################################################
+---------------------- initialization ------------------------------
+Iteration_num: 7  PlanScore: 2  PlanScore_fine: 6.854573569938203
+Step: 1  Iteration: 14  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 8.023  PlanScore: 4.797 
+Step: 2  Iteration: 39  Action: 2  tREC: 0.8  case: 0 
+PlanScore_fine: 9.966  PlanScore: 8 
+Step: 3  Iteration: 39  Action: 0  lambdaPTV: 1.65  case: 0 
+PlanScore_fine: 10.136  PlanScore: 8 
+Step: 4  Iteration: 39  Action: 0  lambdaPTV: 2.72  case: 0 
+PlanScore_fine: 10.362  PlanScore: 8 
+Step: 5  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 0 
+PlanScore_fine: 10.435  PlanScore: 8 
+Step: 6  Iteration: 39  Action: 0  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.915  PlanScore: 8.039 
+Step: 7  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 11.017  PlanScore: 8.23 
+Step: 8  Iteration: 39  Action: 2  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.915  PlanScore: 8.039 
+Step: 9  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 11.017  PlanScore: 8.23 
+Step: 10  Iteration: 39  Action: 2  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.915  PlanScore: 8.039 
+Step: 11  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 11.017  PlanScore: 8.23 
+Step: 12  Iteration: 39  Action: 2  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.915  PlanScore: 8.039 
+Step: 13  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 11.017  PlanScore: 8.23 
+Step: 14  Iteration: 39  Action: 2  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.915  PlanScore: 8.039 
+Step: 15  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 11.017  PlanScore: 8.23 
+Step: 16  Iteration: 39  Action: 2  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.915  PlanScore: 8.039 
+Step: 17  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 11.017  PlanScore: 8.23 
+Step: 18  Iteration: 39  Action: 2  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.915  PlanScore: 8.039 
+Step: 19  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 11.017  PlanScore: 8.23 
+Step: 20  Iteration: 39  Action: 2  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.915  PlanScore: 8.039 
+Step: 21  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 11.017  PlanScore: 8.23 
+Step: 22  Iteration: 39  Action: 2  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.915  PlanScore: 8.039 
+Step: 23  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 11.017  PlanScore: 8.23 
+Step: 24  Iteration: 39  Action: 2  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.915  PlanScore: 8.039 
+Step: 25  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 11.017  PlanScore: 8.23 
+Step: 26  Iteration: 39  Action: 2  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.915  PlanScore: 8.039 
+Step: 27  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 11.017  PlanScore: 8.23 
+Step: 28  Iteration: 39  Action: 2  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.915  PlanScore: 8.039 
+Step: 29  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 11.017  PlanScore: 8.23 
+Step: 30  Iteration: 39  Action: 2  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.915  PlanScore: 8.039 
+Step: 31  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 11.017  PlanScore: 8.23 
+Step: 32  Iteration: 39  Action: 2  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.915  PlanScore: 8.039 
+Step: 33  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 11.017  PlanScore: 8.23 
+Step: 34  Iteration: 39  Action: 2  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.915  PlanScore: 8.039 
+Step: 35  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 11.017  PlanScore: 8.23 
+Step: 36  Iteration: 39  Action: 2  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.915  PlanScore: 8.039 
+Step: 37  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 11.017  PlanScore: 8.23 
+Step: 38  Iteration: 39  Action: 2  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.915  PlanScore: 8.039 
+Step: 39  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 11.017  PlanScore: 8.23 
+Step: 40  Iteration: 39  Action: 2  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.915  PlanScore: 8.039 
+Step: 41  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 11.017  PlanScore: 8.23 
+Step: 42  Iteration: 39  Action: 2  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.915  PlanScore: 8.039 
+Step: 43  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 11.017  PlanScore: 8.23 
+Step: 44  Iteration: 39  Action: 2  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.915  PlanScore: 8.039 
+Step: 45  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 11.017  PlanScore: 8.23 
+Step: 1  Iteration: 14  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 8.023  PlanScore: 4.797 
+Step: 2  Iteration: 39  Action: 2  tREC: 0.8  case: 1 
+PlanScore_fine: 9.966  PlanScore: 8 
+Step: 3  Iteration: 39  Action: 2  lambdaPTV: 0.61  case: 1 
+PlanScore_fine: 9.443  PlanScore: 7.723 
+Step: 4  Iteration: 39  Action: 2  lambdaPTV: 0.37  case: 1 
+PlanScore_fine: 8.691  PlanScore: 7 
+Step: 5  Iteration: 17  Action: 2  lambdaPTV: 0.22  case: 1 
+PlanScore_fine: 7.419  PlanScore: 6 
+Step: 6  Iteration: 34  Action: 2  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 8.217  PlanScore: 6.727 
+Step: 7  Iteration: 21  Action: 2  lambdaPTV: 0.14  case: 1 
+PlanScore_fine: 7.372  PlanScore: 6 
+Step: 8  Iteration: 19  Action: 2  lambdaBLA: 0.37  case: 1 
+PlanScore_fine: 7.146  PlanScore: 6 
+Step: 9  Iteration: 39  Action: 2  tREC: 0.64  case: 1 
+PlanScore_fine: 8.639  PlanScore: 8 
+Step: 10  Iteration: 39  Action: 0  lambdaPTV: 0.22  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 11  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 12  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 13  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 14  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 15  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 16  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 17  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 18  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 19  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 20  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 21  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 22  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 23  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 24  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 25  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 26  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 27  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 28  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 29  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 30  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 31  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 32  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 33  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 34  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 35  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 36  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 37  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 38  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 39  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 40  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 41  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 42  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 43  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 44  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+Step: 45  Iteration: 39  Action: 2  VBLA: 1  case: 1 
+PlanScore_fine: 8.707  PlanScore: 8 
+############################# Testing start for patient 12 #################################################
+---------------------- initialization ------------------------------
+Iteration_num: 6  PlanScore: 3  PlanScore_fine: 7.641379193268811
+Step: 1  Iteration: 18  Action: 2  tREC: 0.8  case: 0 
+PlanScore_fine: 7.831  PlanScore: 5.236 
+Step: 2  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 8.999  PlanScore: 7.779 
+Step: 3  Iteration: 39  Action: 0  lambdaPTV: 1.65  case: 0 
+PlanScore_fine: 9.37  PlanScore: 8 
+Step: 4  Iteration: 39  Action: 0  lambdaPTV: 2.72  case: 0 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 5  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 0 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 6  Iteration: 39  Action: 0  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 10.514  PlanScore: 7.926 
+Step: 7  Iteration: 39  Action: 0  lambdaPTV: 12.18  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 8  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 9  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 10  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 11  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 12  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 13  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 14  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 15  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 16  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 17  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 18  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 19  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 20  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 21  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 22  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 23  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 24  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 25  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 26  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 27  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 28  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 29  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 30  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 31  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 32  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 33  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 34  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 35  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 36  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 37  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 38  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 39  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 40  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 41  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 42  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 43  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 44  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 45  Iteration: 39  Action: 1  lambdaBLA: 1  case: 0 
+PlanScore_fine: 10.897  PlanScore: 7.856 
+Step: 1  Iteration: 18  Action: 2  tREC: 0.8  case: 1 
+PlanScore_fine: 7.831  PlanScore: 5.236 
+Step: 2  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 8.999  PlanScore: 7.779 
+Step: 3  Iteration: 39  Action: 0  lambdaPTV: 1.65  case: 1 
+PlanScore_fine: 9.37  PlanScore: 8 
+Step: 4  Iteration: 39  Action: 0  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 5  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 6  Iteration: 39  Action: 2  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 7  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 8  Iteration: 39  Action: 2  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 9  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 10  Iteration: 39  Action: 2  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 11  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 12  Iteration: 39  Action: 2  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 13  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 14  Iteration: 39  Action: 2  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 15  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 16  Iteration: 39  Action: 2  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 17  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 18  Iteration: 39  Action: 2  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 19  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 20  Iteration: 39  Action: 2  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 21  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 22  Iteration: 39  Action: 2  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 23  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 24  Iteration: 39  Action: 2  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 25  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 26  Iteration: 39  Action: 2  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 27  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 28  Iteration: 39  Action: 2  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 29  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 30  Iteration: 39  Action: 2  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 31  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 32  Iteration: 39  Action: 2  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 33  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 34  Iteration: 39  Action: 2  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 35  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 36  Iteration: 39  Action: 2  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 37  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 38  Iteration: 39  Action: 2  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 39  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 40  Iteration: 39  Action: 2  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 41  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 42  Iteration: 39  Action: 2  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 43  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+Step: 44  Iteration: 39  Action: 2  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 9.767  PlanScore: 8 
+Step: 45  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.204  PlanScore: 8 
+############################# Testing start for patient 17 #################################################
+---------------------- initialization ------------------------------
+Iteration_num: 6  PlanScore: 6  PlanScore_fine: 10.112951579560038
+Step: 1  Iteration: 16  Action: 2  tREC: 0.8  case: 0 
+PlanScore_fine: 12.563  PlanScore: 8.238 
+Step: 2  Iteration: 16  Action: 2  VREC: 0.8  case: 0 
+PlanScore_fine: 12.563  PlanScore: 8.238 
+Step: 3  Iteration: 16  Action: 2  VREC: 0.64  case: 0 
+PlanScore_fine: 12.563  PlanScore: 8.238 
+Step: 4  Iteration: 16  Action: 2  VREC: 0.512  case: 0 
+PlanScore_fine: 12.563  PlanScore: 8.238 
+Step: 5  Iteration: 15  Action: 2  VREC: 0.4096  case: 0 
+PlanScore_fine: 12.508  PlanScore: 8.069 
+Step: 6  Iteration: 17  Action: 2  VREC: 0.3277  case: 0 
+PlanScore_fine: 12.526  PlanScore: 8.135 
+Step: 7  Iteration: 16  Action: 2  VREC: 0.2621  case: 0 
+PlanScore_fine: 12.562  PlanScore: 8.255 
+Step: 8  Iteration: 15  Action: 2  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 9  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 10  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 11  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 12  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 13  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 14  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 15  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 16  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 17  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 18  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 19  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 20  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 21  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 22  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 23  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 24  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 25  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 26  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 27  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 28  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 29  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 30  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 31  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 32  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 33  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 34  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 35  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 36  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 37  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 38  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 39  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 40  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 41  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 42  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 43  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 44  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 45  Iteration: 15  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 1  Iteration: 16  Action: 2  tREC: 0.8  case: 1 
+PlanScore_fine: 12.563  PlanScore: 8.238 
+Step: 2  Iteration: 16  Action: 2  VREC: 0.8  case: 1 
+PlanScore_fine: 12.563  PlanScore: 8.238 
+Step: 3  Iteration: 16  Action: 2  VREC: 0.64  case: 1 
+PlanScore_fine: 12.563  PlanScore: 8.238 
+Step: 4  Iteration: 16  Action: 2  VREC: 0.512  case: 1 
+PlanScore_fine: 12.563  PlanScore: 8.238 
+Step: 5  Iteration: 15  Action: 2  VREC: 0.4096  case: 1 
+PlanScore_fine: 12.508  PlanScore: 8.069 
+Step: 6  Iteration: 17  Action: 2  VREC: 0.3277  case: 1 
+PlanScore_fine: 12.526  PlanScore: 8.135 
+Step: 7  Iteration: 16  Action: 2  VREC: 0.2621  case: 1 
+PlanScore_fine: 12.562  PlanScore: 8.255 
+Step: 8  Iteration: 15  Action: 2  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 9  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 10  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 11  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 12  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 13  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 14  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 15  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 16  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 17  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 18  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 19  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 20  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 21  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 22  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 23  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 24  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 25  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 26  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 27  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 28  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 29  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 30  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 31  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 32  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 33  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 34  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 35  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 36  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 37  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 38  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 39  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 40  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 41  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 42  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 43  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 44  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+Step: 45  Iteration: 15  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.585  PlanScore: 8.372 
+############################# Testing start for patient 24 #################################################
+---------------------- initialization ------------------------------
+Iteration_num: 7  PlanScore: 6  PlanScore_fine: 10.379423685483541
+Step: 1  Iteration: 15  Action: 2  tREC: 0.8  case: 0 
+PlanScore_fine: 13.291  PlanScore: 9 
+Step: 1  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 2  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 3  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 4  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 5  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 6  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 7  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 8  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 9  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 10  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 11  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 12  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 13  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 14  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 15  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 16  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 17  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 18  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 19  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 20  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 21  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 22  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 23  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 24  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 25  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 26  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 27  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 28  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 29  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 30  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 31  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 32  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 33  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 34  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 35  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 36  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 37  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 38  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 39  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 40  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 41  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 42  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 43  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 44  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+Step: 45  Iteration: 7  Action: 0  tREC: 1  case: 1 
+PlanScore_fine: 10.379  PlanScore: 6 
+############################# Testing start for patient 29 #################################################
+---------------------- initialization ------------------------------
+Iteration_num: 6  PlanScore: 6  PlanScore_fine: 10.172443534419575
+Step: 1  Iteration: 21  Action: 2  tREC: 0.8  case: 0 
+PlanScore_fine: 12.438  PlanScore: 7.868 
+Step: 2  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 9.898  PlanScore: 8 
+Step: 3  Iteration: 39  Action: 0  lambdaPTV: 1.65  case: 0 
+PlanScore_fine: 9.999  PlanScore: 8 
+Step: 4  Iteration: 39  Action: 0  lambdaPTV: 2.72  case: 0 
+PlanScore_fine: 10.329  PlanScore: 8 
+Step: 5  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 0 
+PlanScore_fine: 10.447  PlanScore: 8 
+Step: 6  Iteration: 39  Action: 2  VPTV: 0.06  case: 0 
+PlanScore_fine: 10.544  PlanScore: 8 
+Step: 7  Iteration: 39  Action: 0  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 11.153  PlanScore: 8.157 
+Step: 8  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 9  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 10  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 11  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 12  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 13  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 14  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 15  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 16  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 17  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 18  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 19  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 20  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 21  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 22  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 23  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 24  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 25  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 26  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 27  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 28  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 29  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 30  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 31  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 32  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 33  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 34  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 35  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 36  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 37  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 38  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 39  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 40  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 41  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 42  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 43  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 44  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 45  Iteration: 39  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 1  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 2  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 3  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 4  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 5  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 6  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 7  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 8  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 9  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 10  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 11  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 12  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 13  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 14  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 15  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 16  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 17  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 18  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 19  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 20  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 21  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 22  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 23  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 24  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 25  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 26  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 27  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 28  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 29  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 30  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 31  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 32  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 33  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 34  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 35  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 36  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 37  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 38  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 39  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 40  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 41  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 42  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 43  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 44  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+Step: 45  Iteration: 39  Action: 1  tREC: 1  case: 1 
+PlanScore_fine: 12.664  PlanScore: 8.518 
+############################# Testing start for patient 35 #################################################
+---------------------- initialization ------------------------------
+Iteration_num: 7  PlanScore: 5  PlanScore_fine: 9.603810454531073
+Step: 1  Iteration: 22  Action: 2  tREC: 0.8  case: 0 
+PlanScore_fine: 10.572  PlanScore: 8.216 
+Step: 2  Iteration: 39  Action: 2  VPTV: 0.06  case: 0 
+PlanScore_fine: 10.897  PlanScore: 8.38 
+Step: 3  Iteration: 39  Action: 2  VPTV: 0.036  case: 0 
+PlanScore_fine: 10.997  PlanScore: 8.496 
+Step: 4  Iteration: 39  Action: 2  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.939  PlanScore: 8.388 
+Step: 5  Iteration: 39  Action: 2  VPTV: 0.0216  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 6  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 7  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 8  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 9  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 10  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 11  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 12  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 13  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 14  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 15  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 16  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 17  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 18  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 19  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 20  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 21  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 22  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 23  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 24  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 25  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 26  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 27  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 28  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 29  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 30  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 31  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 32  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 33  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 34  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 35  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 36  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 37  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 38  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 39  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 40  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 41  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 42  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 43  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 44  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 45  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 1  Iteration: 22  Action: 2  tREC: 0.8  case: 1 
+PlanScore_fine: 10.572  PlanScore: 8.216 
+Step: 2  Iteration: 39  Action: 2  VPTV: 0.06  case: 1 
+PlanScore_fine: 10.897  PlanScore: 8.38 
+Step: 3  Iteration: 39  Action: 2  VPTV: 0.036  case: 1 
+PlanScore_fine: 10.997  PlanScore: 8.496 
+Step: 4  Iteration: 39  Action: 2  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.939  PlanScore: 8.388 
+Step: 5  Iteration: 39  Action: 2  VPTV: 0.0216  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 6  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 7  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 8  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 9  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 10  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 11  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 12  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 13  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 14  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 15  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 16  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 17  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 18  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 19  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 20  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 21  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 22  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 23  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 24  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 25  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 26  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 27  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 28  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 29  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 30  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 31  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 32  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 33  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 34  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 35  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 36  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 37  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 38  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 39  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 40  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 41  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 42  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 43  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 44  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+Step: 45  Iteration: 39  Action: 1  lambdaBLA: 0.61  case: 1 
+PlanScore_fine: 10.861  PlanScore: 8.341 
+############################# Testing start for patient 40 #################################################
+---------------------- initialization ------------------------------
+Iteration_num: 7  PlanScore: 5.739252995066948  PlanScore_fine: 9.975378318579487
+Step: 1  Iteration: 13  Action: 2  tREC: 0.8  case: 0 
+PlanScore_fine: 12.408  PlanScore: 7.809 
+Step: 2  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.93  PlanScore: 8 
+Step: 3  Iteration: 39  Action: 0  lambdaPTV: 1.65  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 4  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 5  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 6  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 7  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 8  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 9  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 10  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 11  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 12  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 13  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 14  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 15  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 16  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 17  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 18  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 19  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 20  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 21  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 22  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 23  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 24  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 25  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 26  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 27  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 28  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 29  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 30  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 31  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 32  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 33  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 34  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 35  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 36  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 37  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 38  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 39  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 40  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 41  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 42  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 43  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 44  Iteration: 19  Action: 0  tBLA: 1  case: 0 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 45  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 1  Iteration: 13  Action: 2  tREC: 0.8  case: 1 
+PlanScore_fine: 12.408  PlanScore: 7.809 
+Step: 2  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.93  PlanScore: 8 
+Step: 3  Iteration: 39  Action: 0  lambdaPTV: 1.65  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 4  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 5  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 6  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 7  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 8  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 9  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 10  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 11  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 12  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 13  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 14  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 15  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 16  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 17  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 18  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 19  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 20  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 21  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 22  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 23  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 24  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 25  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 26  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 27  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 28  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 29  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 30  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 31  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 32  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 33  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 34  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 35  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 36  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 37  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 38  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 39  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 40  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 41  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 42  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 43  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+Step: 44  Iteration: 19  Action: 0  tBLA: 1  case: 1 
+PlanScore_fine: 12.724  PlanScore: 8.721 
+Step: 45  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 10.967  PlanScore: 8 
+############################# Testing start for patient 50 #################################################
+---------------------- initialization ------------------------------
+Iteration_num: 6  PlanScore: 6  PlanScore_fine: 10.085888107632844
+Step: 1  Iteration: 11  Action: 2  tREC: 0.8  case: 0 
+PlanScore_fine: 10.222  PlanScore: 7.457 
+Step: 2  Iteration: 15  Action: 0  lambdaPTV: 1.65  case: 0 
+PlanScore_fine: 10.347  PlanScore: 7.612 
+Step: 3  Iteration: 16  Action: 0  lambdaPTV: 2.72  case: 0 
+PlanScore_fine: 10.517  PlanScore: 7.81 
+Step: 4  Iteration: 19  Action: 0  lambdaPTV: 4.48  case: 0 
+PlanScore_fine: 10.912  PlanScore: 7.892 
+Step: 5  Iteration: 20  Action: 0  lambdaPTV: 7.39  case: 0 
+PlanScore_fine: 12.471  PlanScore: 7.955 
+Step: 6  Iteration: 14  Action: 2  lambdaREC: 0.61  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 7  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 8  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 9  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 10  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 11  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 12  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 13  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 14  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 15  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 16  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 17  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 18  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 19  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 20  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 21  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 22  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 23  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 24  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 25  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 26  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 27  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 28  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 29  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 30  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 31  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 32  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 33  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 34  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 35  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 36  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 37  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 38  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 39  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 40  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 41  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 42  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 43  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 44  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 45  Iteration: 14  Action: 1  VREC: 1  case: 0 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 1  Iteration: 11  Action: 2  tREC: 0.8  case: 1 
+PlanScore_fine: 10.222  PlanScore: 7.457 
+Step: 2  Iteration: 15  Action: 0  lambdaPTV: 1.65  case: 1 
+PlanScore_fine: 10.347  PlanScore: 7.612 
+Step: 3  Iteration: 16  Action: 0  lambdaPTV: 2.72  case: 1 
+PlanScore_fine: 10.517  PlanScore: 7.81 
+Step: 4  Iteration: 19  Action: 0  lambdaPTV: 4.48  case: 1 
+PlanScore_fine: 10.912  PlanScore: 7.892 
+Step: 5  Iteration: 20  Action: 0  lambdaPTV: 7.39  case: 1 
+PlanScore_fine: 12.471  PlanScore: 7.955 
+Step: 6  Iteration: 14  Action: 2  lambdaREC: 0.61  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 7  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 8  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 9  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 10  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 11  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 12  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 13  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 14  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 15  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 16  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 17  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 18  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 19  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 20  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 21  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 22  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 23  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 24  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 25  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 26  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 27  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 28  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 29  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 30  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 31  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 32  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 33  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 34  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 35  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 36  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 37  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 38  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 39  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 40  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 41  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 42  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 43  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 44  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+Step: 45  Iteration: 14  Action: 1  VREC: 1  case: 1 
+PlanScore_fine: 12.486  PlanScore: 8.193 
+############################# Testing start for patient 59 #################################################
+---------------------- initialization ------------------------------
+Iteration_num: 7  PlanScore: 4.5208988240773085  PlanScore_fine: 9.076703027471991
+Step: 1  Iteration: 21  Action: 2  tREC: 0.8  case: 0 
+PlanScore_fine: 9.695  PlanScore: 6.86 
+Step: 2  Iteration: 39  Action: 2  tBLA: 0.8  case: 0 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 3  Iteration: 39  Action: 2  lambdaREC: 0.61  case: 0 
+PlanScore_fine: 9.558  PlanScore: 8 
+Step: 4  Iteration: 39  Action: 2  VREC: 0.8  case: 0 
+PlanScore_fine: 9.558  PlanScore: 8 
+Step: 5  Iteration: 39  Action: 2  VREC: 0.64  case: 0 
+PlanScore_fine: 9.558  PlanScore: 8 
+Step: 6  Iteration: 39  Action: 2  VREC: 0.512  case: 0 
+PlanScore_fine: 9.675  PlanScore: 8 
+Step: 7  Iteration: 39  Action: 2  lambdaREC: 0.37  case: 0 
+PlanScore_fine: 9.722  PlanScore: 8 
+Step: 8  Iteration: 39  Action: 2  lambdaBLA: 0.61  case: 0 
+PlanScore_fine: 9.862  PlanScore: 8 
+Step: 9  Iteration: 39  Action: 2  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 10.025  PlanScore: 8 
+Step: 10  Iteration: 39  Action: 0  lambdaPTV: 1.65  case: 0 
+PlanScore_fine: 10.358  PlanScore: 8 
+Step: 11  Iteration: 39  Action: 0  lambdaPTV: 2.72  case: 0 
+PlanScore_fine: 10.72  PlanScore: 8 
+Step: 12  Iteration: 39  Action: 0  lambdaPTV: 4.48  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 13  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 14  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 15  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 16  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 17  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 18  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 19  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 20  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 21  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 22  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 23  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 24  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 25  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 26  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 27  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 28  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 29  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 30  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 31  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 32  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 33  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 34  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 35  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 36  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 37  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 38  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 39  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 40  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 41  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 42  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 43  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 44  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 45  Iteration: 39  Action: 1  lambdaBLA: 0.37  case: 0 
+PlanScore_fine: 11.193  PlanScore: 8.332 
+Step: 1  Iteration: 21  Action: 2  tREC: 0.8  case: 1 
+PlanScore_fine: 9.695  PlanScore: 6.86 
+Step: 2  Iteration: 39  Action: 2  tBLA: 0.8  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 3  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 4  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 5  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 6  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 7  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 8  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 9  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 10  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 11  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 12  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 13  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 14  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 15  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 16  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 17  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 18  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 19  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 20  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 21  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 22  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 23  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 24  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 25  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 26  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 27  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 28  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 29  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 30  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 31  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 32  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 33  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 34  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 35  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 36  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 37  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 38  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 39  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 40  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 41  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 42  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 43  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 44  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+Step: 45  Iteration: 39  Action: 1  lambdaREC: 1  case: 1 
+PlanScore_fine: 9.724  PlanScore: 8 
+############################# Testing start for patient 62 #################################################
+---------------------- initialization ------------------------------
+Iteration_num: 6  PlanScore: 5  PlanScore_fine: 9.452338193404287
+Step: 1  Iteration: 14  Action: 2  tREC: 0.8  case: 0 
+PlanScore_fine: 12.548  PlanScore: 8.305 
+Step: 2  Iteration: 14  Action: 2  VREC: 0.8  case: 0 
+PlanScore_fine: 12.548  PlanScore: 8.305 
+Step: 3  Iteration: 14  Action: 2  VREC: 0.64  case: 0 
+PlanScore_fine: 12.548  PlanScore: 8.305 
+Step: 4  Iteration: 16  Action: 2  VREC: 0.512  case: 0 
+PlanScore_fine: 12.567  PlanScore: 8.265 
+Step: 5  Iteration: 12  Action: 2  VREC: 0.4096  case: 0 
+PlanScore_fine: 12.561  PlanScore: 8.354 
+Step: 6  Iteration: 14  Action: 2  VREC: 0.3277  case: 0 
+PlanScore_fine: 12.581  PlanScore: 8.394 
+Step: 7  Iteration: 14  Action: 2  VREC: 0.2621  case: 0 
+PlanScore_fine: 12.614  PlanScore: 8.461 
+Step: 8  Iteration: 12  Action: 2  VREC: 0.2097  case: 0 
+PlanScore_fine: 12.521  PlanScore: 8.455 
+Step: 9  Iteration: 12  Action: 0  lambdaREC: 1.65  case: 0 
+PlanScore_fine: 12.409  PlanScore: 8.292 
+Step: 10  Iteration: 12  Action: 0  lambdaREC: 2.72  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 11  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 12  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 13  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 14  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 15  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 16  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 17  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 18  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 19  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 20  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 21  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 22  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 23  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 24  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 25  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 26  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 27  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 28  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 29  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 30  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 31  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 32  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 33  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 34  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 35  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 36  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 37  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 38  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 39  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 40  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 41  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 42  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 43  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 44  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 45  Iteration: 12  Action: 1  VREC: 0.2097  case: 0 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 1  Iteration: 14  Action: 2  tREC: 0.8  case: 1 
+PlanScore_fine: 12.548  PlanScore: 8.305 
+Step: 2  Iteration: 14  Action: 2  VREC: 0.8  case: 1 
+PlanScore_fine: 12.548  PlanScore: 8.305 
+Step: 3  Iteration: 14  Action: 2  VREC: 0.64  case: 1 
+PlanScore_fine: 12.548  PlanScore: 8.305 
+Step: 4  Iteration: 16  Action: 2  VREC: 0.512  case: 1 
+PlanScore_fine: 12.567  PlanScore: 8.265 
+Step: 5  Iteration: 12  Action: 2  VREC: 0.4096  case: 1 
+PlanScore_fine: 12.561  PlanScore: 8.354 
+Step: 6  Iteration: 14  Action: 2  VREC: 0.3277  case: 1 
+PlanScore_fine: 12.581  PlanScore: 8.394 
+Step: 7  Iteration: 14  Action: 2  VREC: 0.2621  case: 1 
+PlanScore_fine: 12.614  PlanScore: 8.461 
+Step: 8  Iteration: 12  Action: 2  VREC: 0.2097  case: 1 
+PlanScore_fine: 12.521  PlanScore: 8.455 
+Step: 9  Iteration: 12  Action: 0  lambdaREC: 1.65  case: 1 
+PlanScore_fine: 12.409  PlanScore: 8.292 
+Step: 10  Iteration: 12  Action: 0  lambdaREC: 2.72  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 11  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 12  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 13  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 14  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 15  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 16  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 17  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 18  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 19  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 20  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 21  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 22  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 23  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 24  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 25  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 26  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 27  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 28  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 29  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 30  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 31  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 32  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 33  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 34  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 35  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 36  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 37  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 38  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 39  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 40  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 41  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 42  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 43  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 44  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+Step: 45  Iteration: 12  Action: 1  VREC: 0.2097  case: 1 
+PlanScore_fine: 10.595  PlanScore: 7.558 
+From DQN_testDVH.py:91: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:91: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:91: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.

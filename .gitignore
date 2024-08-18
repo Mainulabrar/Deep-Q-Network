@@ -1,0 +1,15 @@
+test_dose_mask_onceagain.h5
+test_onceagain.hdf5
+test_structure_mask_onceagain.h5
+**.hdf5
+**.h5
+**.png
+**.npy
+**.npz
+**/*.npy
+**/*.npz
+**.mat
+**.zip
+**/*.pth
+**/*.dcm
+**/*.pyc
