@@ -56,7 +56,7 @@ MAX_STEP = 30
 load_session = 1# 1 for loading weight from #LoadEpoch; 0 for starting NN from randomn weight
 save_session = 1 # 1 for saving the output
 Start = 0# 1 for training and 0 for testing
-LoadEpoch =65# if load_session is 1, then loading the weight from LoadEpoch
+LoadEpoch = 180# if load_session is 1, then loading the weight from LoadEpoch
 pdose = 4500 # target dose for PTV
 maxiter = 40 # maximum iteration number for treatment planing optimization
 # ------------- range of parmaeter -----------------
@@ -76,6 +76,7 @@ def main():
 
 
      save_session_name = '/data/data/sessionrm125/'
+     # save_session_name = '/home/mainul1/DQN/newNetwork/'
      #save_session_name ='/data/data/Results/GPU5/session20test/'
    # ---------------store the previous observations in replay memory ------------
      replay_buffer1 = deque(maxlen=REPLAY_MEMORY)

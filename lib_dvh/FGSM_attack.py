@@ -137,14 +137,14 @@ def get_action(X, mainDQN1, mainDQN2,mainDQN3,mainDQN4,mainDQN5,mainDQN6,mainDQN
     des_action = np.max(TotalArray)
     # print('des_action', des_action)
 
-    return des_action
+    return np.log(des_action)
 
 
 def evalu_training(mainDQN1: DQN, mainDQN2: DQN, mainDQN3: DQN, 
              mainDQN4: DQN,  mainDQN5: DQN, mainDQN6: DQN,
              mainDQN7: DQN,  mainDQN8: DQN, mainDQN9: DQN,
              runOpt_dvh, episode,flagg,pdose,maxiter) -> None:
-    test_set =['10']#['18','20','22','23','25','26','27','28','30','31','36','37','42','43','45','46','54','57','61','65','66','68','70','73','74','77','80','81','83','84','85','87','88','91','92','93','95','97','98'] #['12','17'] # training set
+    test_set =['12']#['18','20','22','23','25','26','27','28','30','31','36','37','42','43','45','46','54','57','61','65','66','68','70','73','74','77','80','81','83','84','85','87','88','91','92','93','95','97','98'] #['12','17'] # training set
     for sampleid in range(1):
         id = test_set[sampleid]
         print('############################# Testing start for patient '+ id +' #################################################')

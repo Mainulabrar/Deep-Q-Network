@@ -13,6 +13,7 @@ import matplotlib.pyplot as plt
 from .score_calcu import planIQ
 import math as m
 import pandas as pd
+import random
 
 
 INPUT_SIZE = 100  # DVH interval number
@@ -33,7 +34,7 @@ def evalu_training(mainDQN1: DQN, mainDQN2: DQN, mainDQN3: DQN,
              mainDQN4: DQN,  mainDQN5: DQN, mainDQN6: DQN,
              mainDQN7: DQN,  mainDQN8: DQN, mainDQN9: DQN,
              runOpt_dvh, episode,flagg,pdose,maxiter) -> None:
-    test_set =['10']#['18','20','22','23','25','26','27','28','30','31','36','37','42','43','45','46','54','57','61','65','66','68','70','73','74','77','80','81','83','84','85','87','88','91','92','93','95','97','98'] #['12','17'] # training set
+    test_set =['17']#['18','20','22','23','25','26','27','28','30','31','36','37','42','43','45','46','54','57','61','65','66','68','70','73','74','77','80','81','83','84','85','87','88','91','92','93','95','97','98'] #['12','17'] # training set
     for sampleid in range(1):
         id = test_set[sampleid]
         print('############################# Testing start for patient '+ id +' #################################################')
@@ -59,6 +60,20 @@ def evalu_training(mainDQN1: DQN, mainDQN2: DQN, mainDQN3: DQN,
         VPTV = 0.1
         VBLA = 1
         VREC = 1
+          # -----------------------Alternative Initialization ----------------------
+        # planScore = 8.5
+        # while planScore >=6:
+        #     epsilon = 1e-10
+        #     tPTV = random.uniform(1 + epsilon, 1.2 - epsilon)
+        #     tBLA = random.uniform(0.3 + epsilon, 1 - epsilon)
+        #     tREC = random.uniform(0.3 + epsilon, 1 - epsilon)
+        #     lambdaPTV = random.uniform(0.3 + epsilon, 1 - epsilon)
+        #     lambdaBLA = random.uniform(0.3 + epsilon, 1 - epsilon)
+        #     lambdaREC = random.uniform(0.3 + epsilon, 1 - epsilon)
+        #     VPTV = random.uniform(0.1 + epsilon, 0.3 - epsilon)
+        #     VBLA = random.uniform(0.3 + epsilon, 1 - epsilon)
+        #     VREC = random.uniform(0.3 + epsilon, 1 - epsilon)
+              # ------------------------------------------------------------------------
         xVec = np.ones((MPTV.shape[1],))
         gamma = np.zeros((MPTV.shape[0],))
         # --------------------- solve treatment planning optmization -----------------------------
@@ -123,7 +138,7 @@ def evalu_training(mainDQN1: DQN, mainDQN2: DQN, mainDQN3: DQN,
         planScore_all = np.zeros((MAX_STEP + 1))
         planScore_fine_all = np.zeros((MAX_STEP + 1))
         planScore_fine, planScore,scoreall = planIQ(MPTV, MBLA1, MREC1, xVec,pdose)
-        print("Iteration_num: {}  PlanScore: {}  PlanScore_fine: {}".format(iter, planScore, planScore_fine))
+        print("Iteration_num: {}  PlanScore: {}  PlanScore_fine: {} planScore_all: {}".format(iter, planScore, planScore_fine, scoreall))
 
         tPTV_all[0] = tPTV
         tBLA_all[0] = tBLA
@@ -407,6 +422,7 @@ def evalu_training(mainDQN1: DQN, mainDQN2: DQN, mainDQN3: DQN,
                         if VREC <= paraMin:
                             VREC = paraMin
 
+                print("tPTV: {} tBLA: {} tREC: {} lambdaPTV: {} lambdaBLA: {} lambdaREC: {} VPTV: {} VBLA: {} VREC: {}".format(tPTV, tBLA, tREC, lambdaPTV, lambdaBLA, lambdaREC, VPTV, VBLA, VREC))
                 # --------------------- solve treatment planning optmization -----------------------------
                 if action != 1:
                     xVec = np.ones((MPTV.shape[1],))
@@ -416,7 +432,7 @@ def evalu_training(mainDQN1: DQN, mainDQN2: DQN, mainDQN3: DQN,
 
                 print('paraidx', paraidx, 'action', action)
                 planScore_fine,  planScore, scoreall = planIQ(MPTV, MBLA1, MREC1, xVec,pdose)
-                print("Step: {} Iteration_num: {}  PlanScore: {}  PlanScore_fine: {}".format(i,iter, planScore, planScore_fine))
+                print("Step: {} Iteration_num: {}  PlanScore: {}  PlanScore_fine: {} planScore_all: {}".format(i,iter, planScore, planScore_fine, scoreall))
                 print("tPTV: {} tBLA: {} tREC: {} lambdaPTV: {} lambdaBLA: {} lambdaREC: {} VPTV: {} VBLA: {} VREC: {}".format(tPTV, tBLA, tREC, lambdaPTV, lambdaBLA, lambdaREC, VPTV, VBLA, VREC))
                 # collect the result in each iteration 
                 tPTV_all[i + 1] = tPTV

@@ -2773,3 +2773,858 @@ From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.comp
 From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
 Instructions for updating:
 If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM_CORS_50.py:91: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM_CORS_50.py:91: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM_CORS_50.py:91: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM_CORS_50.py:91: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM_CORS_50.py:91: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM_CORS_50.py:91: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM_CORS_50.py:91: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM_CORS_50.py:91: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM_CORS_50.py:91: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM_CORS_50.py:91: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM_CORS_50.py:91: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM_CORS_50.py:91: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM_CORS_50.py:91: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM_CORS_50.py:91: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM_CORS_50.py:91: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM_CORS_50.py:91: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM_CORS_50.py:91: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM_CORS_50.py:91: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM_CORS_50.py:91: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM_CORS_50.py:91: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM_CORS_50.py:91: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM_CORS005_50.py:91: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM_CORS005_50.py:91: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM_CORS005_50.py:91: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM_CORS01_50.py:91: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM_CORS01_50.py:91: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM_CORS01_50.py:91: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM_UTSW_01.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM_UTSW_01.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM_UTSW_01.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:93: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:93: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:93: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:93: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:93: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:93: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:93: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:93: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:93: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:93: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:93: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:93: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:93: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:93: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:93: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:93: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:93: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:93: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:92: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:92: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:92: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:93: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:93: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:93: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:93: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:93: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:93: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_testDVH.py:93: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_testDVH.py:93: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_testDVH.py:93: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:93: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:93: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:93: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:93: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:93: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:93: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:93: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:93: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:93: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:93: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:93: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:93: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:93: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:93: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:93: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:95: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:95: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:95: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:95: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:95: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:95: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM_other_steps.py:95: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM_other_steps.py:95: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM_other_steps.py:95: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:95: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:95: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:95: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM_other_steps.py:95: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM_other_steps.py:95: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM_other_steps.py:95: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM_other_steps.py:95: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM_other_steps.py:95: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM_other_steps.py:95: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM.py:95: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM.py:95: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM.py:95: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM_other_steps.py:95: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM_other_steps.py:95: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM_other_steps.py:95: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM_other_steps.py:95: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM_other_steps.py:95: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM_other_steps.py:95: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM_other_steps.py:95: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM_other_steps.py:95: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM_other_steps.py:95: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM_other_steps.py:95: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM_other_steps.py:95: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM_other_steps.py:95: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM_other_steps.py:95: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM_other_steps.py:95: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM_other_steps.py:95: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From DQN_FGSM_other_steps.py:95: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From DQN_FGSM_other_steps.py:95: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From DQN_FGSM_other_steps.py:95: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+From /usr/local/anaconda3/envs/dqn2/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
